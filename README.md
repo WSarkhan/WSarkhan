@@ -3,8 +3,16 @@
 
  ### 👋 Hi there, I'm Ward
 
-🚀 **Background:** Transitioning from an extensive background as an Estimator in the industrial and commercial roofing sector, I’m embarking on a new journey to embrace my passion for technology and software development starting with a full-stack software development course run by Northcoders. I've also started my journey on FreeCodeCamp currently going through the responsive web design certification. 
+🖥️ **Transitioning into Tech:** From an Estimator in the industrial & commercial roofing sector to a budding full-stack developer, I'm currently gearing up for my software development course with Northcoders. As I embark on this new journey, I'm also honing my skills in responsive web design through FreeCodeCamp.
+
+🎓 **Educational Background** I hold a 2:1 BSc in Economics, and I am currently earning an MSc in Quantity Surveying from the University of Northumbria.
 
 🎮 **Hobbies:** When I'm not learning to code, you can find me diving into video games, engrossed in a good book, bouldering, or hitting the gym.
+
+🔍 **Goals:** My aim is to cultivate a diverse skill set in software development, contribute to meaningful projects, and continuously evolve with the dynamic tech landscape.
+
+🔗 **Connect with me:** Feel free to reach out and [connect](https://www.linkedin.com/in/wsarkhan/), always open to new opportunities, collaborations, or just a friendly chat.
+
+
 
 
