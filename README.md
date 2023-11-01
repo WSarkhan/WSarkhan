@@ -1,4 +1,4 @@
-![visitors](https://vbr.wocr.tk/badge?page_id=WSarkhan.WSarkhan&lcolor=#4a0d32)
+![visitors](https://vbr.wocr.tk/badge?page_id=WSarkhan.WSarkhan&lcolor=4a0d32)
 
  
  ### 👋 Hi there, I'm Ward
