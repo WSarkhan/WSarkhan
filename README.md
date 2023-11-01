@@ -1,6 +1,6 @@
-![visitors](https://vbr.wocr.tk/badge?page_id=WSarkhan.WSarkhan&lcolor=4a0d32)
 
- 
+![visitors](https://vbr.wocr.tk/badge?page_id=WSarkhan.WSarkhan&lcolor=4a0d32&color=454545)
+
  ### 👋 Hi there, I'm Ward
 
 🚀 **Background:** Transitioning from an extensive background as an Estimator in the industrial and commercial roofing sector, I’m embarking on a new journey to embrace my passion for technology and software development starting with a full-stack software development course run by Northcoders. I've also started my journey on FreeCodeCamp currently going through the responsive web design certification. 
