@@ -1,5 +1,5 @@
 
-![visitors](https://vbr.wocr.tk/badge?page_id=WSarkhan.WSarkhan&lcolor=4a0d32&color=454545&logo=#181717)
+![visitors](https://vbr.wocr.tk/badge?page_id=WSarkhan.WSarkhan&lcolor=4a0d32&color=454545&logo=181717)
 
  ### 👋 Hi there, I'm Ward
 
