@@ -13,6 +13,8 @@
 
 🔗 **Connect with me:** Feel free to reach out and [connect](https://www.linkedin.com/in/wsarkhan/), always open to new opportunities, collaborations, or just a friendly chat.
 
+🐋 **Fun Fact:** Whales seem to be immune to cancer! 
+
 
 
 
