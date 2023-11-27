@@ -3,7 +3,7 @@
 
  ### 👋 Hi there, I'm Ward
 
-🖥️ **Transitioning into Tech:** From an Estimator in the industrial & commercial roofing sector to a budding full-stack developer, I'm currently gearing up for my software development course with Northcoders. As I embark on this new journey, I'm also honing my skills in responsive web design through FreeCodeCamp.
+🖥️ **Transitioning into Tech:** From an Estimator in the industrial & commercial roofing sector to a budding full-stack developer, I'm currently on a software development course with Northcoders. As I embark on this new journey, I'm also honing my skills in responsive web design through FreeCodeCamp.
 
 🎓 **Educational Background** I hold a 2:1 BSc in Economics, and I am currently earning an MSc in Quantity Surveying from the University of Northumbria.
 
