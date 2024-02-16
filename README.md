@@ -1,7 +1,8 @@
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=WSarkhan.WSarkhan&lcolor=4a0d32&color=454545&logo=github)
-[![Visitors](https://visitor-badge.glitch.me/)](https://hits.dwyl.com/WSarkhan/{project}.svg?style=flat-square)](http://hits.dwyl.com/WSarkhan/{project})
-
+(While visitor-badge is down)
+ [![Visitors](https://hits.dwyl.com/WSarkhan/READMEmd.svg?style=flat-square)](http://hits.dwyl.com/WSarkhan/READMEmd)
+ 
 <h3>What I code with</h3>
 
 <p>
