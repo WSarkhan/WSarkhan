@@ -1,5 +1,5 @@
 
-![Visitors](https://komarev.com/ghpvc/?username=WSarkhan&color=blueviolet)
+ ![visitors](https://vbr.nathanchung.dev/badge?page_id=WSarkhan.WSarkhan&lcolor=4a0d32&color=454545&logo=github)
  
 <h3>What I code with</h3>
 
