@@ -34,15 +34,7 @@
 <br>
 <body>
 
-🖥️ <b>Transitioning into Tech:<b> From an Estimator in the industrial & commercial roofing sector to a budding full-stack developer, I'm currently on a software development course with Northcoders. As I embark on this new journey, I'm also honing my skills in responsive web design through FreeCodeCamp.
-
-🎓<b>Educational Background<b> I hold a 2:1 BSc in Economics, and I am currently earning an MSc in Quantity Surveying from the University of Northumbria.
-
-🎮 <b>Hobbies:<b> When I'm not learning to code, you can find me diving into video games, engrossed in a good book, bouldering, or hitting the gym.
-
-🔍 <b>Goals:<b> My aim is to cultivate a diverse skill set in software development, contribute to meaningful projects, and continuously evolve with the dynamic tech landscape.
-
-🔗 <b>Connect with me:<b> Feel free to reach out and <a href='https://www.linkedin.com/in/wsarkhan/'>connect</a>, always open to new opportunities, collaborations, or just a friendly chat.
+🔗 <b>Connect with me:<b> Feel free to reach out and <a href='https://www.linkedin.com/in/wsarkhan/'>connect</a>
 
 🐋 <b>Fun Fact:<b> Whales seem to be immune to cancer! 
 </body>
