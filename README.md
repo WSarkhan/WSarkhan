@@ -35,7 +35,7 @@
 
 🔗 <b>Connect with me:<b> Feel free to reach out and <a href='https://www.linkedin.com/in/wsarkhan/'>connect</a>
 
-🐋 <b>Fun Fact:<b> Whales seem to be immune to cancer! 
+
 </body>
 <br>
 <br>
